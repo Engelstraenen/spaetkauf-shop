@@ -1,0 +1,736 @@
+[
+  {
+    "id": "sp-01",
+    "name": "Nachtschicht Heavy Hoodie",
+    "category": "hoodies",
+    "gender": "unisex",
+    "price": 119,
+    "isNew": true,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      },
+      {
+        "name": "Asphalt",
+        "hex": "#55585c"
+      },
+      {
+        "name": "Ecru",
+        "hex": "#e9e3d6"
+      }
+    ],
+    "description": "Schwerer Hoodie mit doppellagiger Kapuze. Vorne kleines Logo, hinten der große Print „Offen bis spät“.",
+    "material": "100 % Bio-Baumwolle, 480 g/m², gebürstet",
+    "fit": "Oversized, überschnittene Schultern",
+    "colorImages": {
+      "Schwarz": [
+        "/products/sp-01-schwarz-1.svg",
+        "/products/sp-01-schwarz-2.svg",
+        "/products/sp-01-schwarz-3.svg",
+        "/products/sp-01-schwarz-4.svg",
+        "/products/sp-01-schwarz-5.svg"
+      ],
+      "Asphalt": [
+        "/products/sp-01-asphalt-1.svg",
+        "/products/sp-01-asphalt-2.svg",
+        "/products/sp-01-asphalt-3.svg",
+        "/products/sp-01-asphalt-4.svg",
+        "/products/sp-01-asphalt-5.svg"
+      ],
+      "Ecru": [
+        "/products/sp-01-ecru-1.svg",
+        "/products/sp-01-ecru-2.svg",
+        "/products/sp-01-ecru-3.svg",
+        "/products/sp-01-ecru-4.svg",
+        "/products/sp-01-ecru-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-01-schwarz-1.svg",
+      "/products/sp-01-schwarz-2.svg",
+      "/products/sp-01-schwarz-3.svg",
+      "/products/sp-01-schwarz-4.svg",
+      "/products/sp-01-schwarz-5.svg"
+    ]
+  },
+  {
+    "id": "sp-02",
+    "name": "Kiosk Zip Hoodie",
+    "category": "hoodies",
+    "gender": "unisex",
+    "price": 129,
+    "isNew": false,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Asphalt",
+        "hex": "#55585c"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Zip-Hoodie mit Metall-Zipper, Kordeln in Kontrastfarbe und geteilter Kängurutasche.",
+    "material": "80 % Baumwolle, 20 % recyceltes Polyester, 440 g/m²",
+    "fit": "Regular, leicht kastig",
+    "colorImages": {
+      "Asphalt": [
+        "/products/sp-02-asphalt-1.svg",
+        "/products/sp-02-asphalt-2.svg",
+        "/products/sp-02-asphalt-3.svg",
+        "/products/sp-02-asphalt-4.svg",
+        "/products/sp-02-asphalt-5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-02-schwarz-1.svg",
+        "/products/sp-02-schwarz-2.svg",
+        "/products/sp-02-schwarz-3.svg",
+        "/products/sp-02-schwarz-4.svg",
+        "/products/sp-02-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-02-asphalt-1.svg",
+      "/products/sp-02-asphalt-2.svg",
+      "/products/sp-02-asphalt-3.svg",
+      "/products/sp-02-asphalt-4.svg",
+      "/products/sp-02-asphalt-5.svg"
+    ]
+  },
+  {
+    "id": "sp-03",
+    "name": "Pfand Crewneck",
+    "category": "hoodies",
+    "gender": "damen",
+    "price": 99,
+    "oldPrice": 129,
+    "isNew": false,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Flieder",
+        "hex": "#b9b1d6"
+      },
+      {
+        "name": "Ecru",
+        "hex": "#e9e3d6"
+      }
+    ],
+    "description": "Rundhals-Sweatshirt mit breitem Rippkragen und gesticktem Logo auf der Brust.",
+    "material": "100 % Baumwolle, 400 g/m²",
+    "fit": "Relaxed",
+    "colorImages": {
+      "Flieder": [
+        "/products/sp-03-flieder-1.svg",
+        "/products/sp-03-flieder-2.svg",
+        "/products/sp-03-flieder-3.svg",
+        "/products/sp-03-flieder-4.svg",
+        "/products/sp-03-flieder-5.svg"
+      ],
+      "Ecru": [
+        "/products/sp-03-ecru-1.svg",
+        "/products/sp-03-ecru-2.svg",
+        "/products/sp-03-ecru-3.svg",
+        "/products/sp-03-ecru-4.svg",
+        "/products/sp-03-ecru-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-03-flieder-1.svg",
+      "/products/sp-03-flieder-2.svg",
+      "/products/sp-03-flieder-3.svg",
+      "/products/sp-03-flieder-4.svg",
+      "/products/sp-03-flieder-5.svg"
+    ]
+  },
+  {
+    "id": "sp-04",
+    "name": "24/7 Boxy Tee",
+    "category": "tshirts",
+    "gender": "unisex",
+    "price": 49,
+    "isNew": true,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      },
+      {
+        "name": "Weiß",
+        "hex": "#f4f4f2"
+      }
+    ],
+    "description": "Kastiges Heavyweight-Shirt mit großem Rückenprint.",
+    "material": "100 % Baumwolle, 280 g/m²",
+    "fit": "Boxy, kurze Länge",
+    "colorImages": {
+      "Schwarz": [
+        "/products/sp-04-schwarz-1.svg",
+        "/products/sp-04-schwarz-2.svg",
+        "/products/sp-04-schwarz-3.svg",
+        "/products/sp-04-schwarz-4.svg",
+        "/products/sp-04-schwarz-5.svg"
+      ],
+      "Weiß": [
+        "/products/sp-04-wei--1.svg",
+        "/products/sp-04-wei--2.svg",
+        "/products/sp-04-wei--3.svg",
+        "/products/sp-04-wei--4.svg",
+        "/products/sp-04-wei--5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-04-schwarz-1.svg",
+      "/products/sp-04-schwarz-2.svg",
+      "/products/sp-04-schwarz-3.svg",
+      "/products/sp-04-schwarz-4.svg",
+      "/products/sp-04-schwarz-5.svg"
+    ]
+  },
+  {
+    "id": "sp-05",
+    "name": "Kassenbon Longsleeve",
+    "category": "tshirts",
+    "gender": "herren",
+    "price": 59,
+    "isNew": false,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Weiß",
+        "hex": "#f4f4f2"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Longsleeve mit Ärmelprint und schmalen Rippbündchen.",
+    "material": "100 % Baumwolle, 220 g/m²",
+    "fit": "Regular",
+    "colorImages": {
+      "Weiß": [
+        "/products/sp-05-wei--1.svg",
+        "/products/sp-05-wei--2.svg",
+        "/products/sp-05-wei--3.svg",
+        "/products/sp-05-wei--4.svg",
+        "/products/sp-05-wei--5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-05-schwarz-1.svg",
+        "/products/sp-05-schwarz-2.svg",
+        "/products/sp-05-schwarz-3.svg",
+        "/products/sp-05-schwarz-4.svg",
+        "/products/sp-05-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-05-wei--1.svg",
+      "/products/sp-05-wei--2.svg",
+      "/products/sp-05-wei--3.svg",
+      "/products/sp-05-wei--4.svg",
+      "/products/sp-05-wei--5.svg"
+    ]
+  },
+  {
+    "id": "sp-06",
+    "name": "Wegbier Baby Tee",
+    "category": "tshirts",
+    "gender": "damen",
+    "price": 39,
+    "isNew": true,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Weiß",
+        "hex": "#f4f4f2"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Kurzes, figurnahes Baby Tee mit kleinem Logo in Signalrot.",
+    "material": "95 % Baumwolle, 5 % Elasthan",
+    "fit": "Slim, cropped",
+    "colorImages": {
+      "Weiß": [
+        "/products/sp-06-wei--1.svg",
+        "/products/sp-06-wei--2.svg",
+        "/products/sp-06-wei--3.svg",
+        "/products/sp-06-wei--4.svg",
+        "/products/sp-06-wei--5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-06-schwarz-1.svg",
+        "/products/sp-06-schwarz-2.svg",
+        "/products/sp-06-schwarz-3.svg",
+        "/products/sp-06-schwarz-4.svg",
+        "/products/sp-06-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-06-wei--1.svg",
+      "/products/sp-06-wei--2.svg",
+      "/products/sp-06-wei--3.svg",
+      "/products/sp-06-wei--4.svg",
+      "/products/sp-06-wei--5.svg"
+    ]
+  },
+  {
+    "id": "sp-07",
+    "name": "Neon Bomber",
+    "category": "jacken",
+    "gender": "herren",
+    "price": 229,
+    "isNew": true,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Oliv",
+        "hex": "#59593f"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Klassischer Bomber mit Rippkragen, Ärmeltasche und wattiertem Futter.",
+    "material": "Außen 100 % Nylon, Futter 100 % Polyester",
+    "fit": "Regular, kurz",
+    "colorImages": {
+      "Oliv": [
+        "/products/sp-07-oliv-1.svg",
+        "/products/sp-07-oliv-2.svg",
+        "/products/sp-07-oliv-3.svg",
+        "/products/sp-07-oliv-4.svg",
+        "/products/sp-07-oliv-5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-07-schwarz-1.svg",
+        "/products/sp-07-schwarz-2.svg",
+        "/products/sp-07-schwarz-3.svg",
+        "/products/sp-07-schwarz-4.svg",
+        "/products/sp-07-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-07-oliv-1.svg",
+      "/products/sp-07-oliv-2.svg",
+      "/products/sp-07-oliv-3.svg",
+      "/products/sp-07-oliv-4.svg",
+      "/products/sp-07-oliv-5.svg"
+    ]
+  },
+  {
+    "id": "sp-08",
+    "name": "Rollladen Lederjacke",
+    "category": "jacken",
+    "gender": "damen",
+    "price": 349,
+    "isNew": true,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      },
+      {
+        "name": "Cognac",
+        "hex": "#8a4b2a"
+      }
+    ],
+    "description": "Jacke aus weichem Lederimitat mit Hemdkragen, Brusttaschen und Druckknöpfen.",
+    "material": "100 % Polyurethan, Futter Viskose",
+    "fit": "Relaxed, hüftlang",
+    "colorImages": {
+      "Schwarz": [
+        "/products/sp-08-schwarz-1.svg",
+        "/products/sp-08-schwarz-2.svg",
+        "/products/sp-08-schwarz-3.svg",
+        "/products/sp-08-schwarz-4.svg",
+        "/products/sp-08-schwarz-5.svg"
+      ],
+      "Cognac": [
+        "/products/sp-08-cognac-1.svg",
+        "/products/sp-08-cognac-2.svg",
+        "/products/sp-08-cognac-3.svg",
+        "/products/sp-08-cognac-4.svg",
+        "/products/sp-08-cognac-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-08-schwarz-1.svg",
+      "/products/sp-08-schwarz-2.svg",
+      "/products/sp-08-schwarz-3.svg",
+      "/products/sp-08-schwarz-4.svg",
+      "/products/sp-08-schwarz-5.svg"
+    ]
+  },
+  {
+    "id": "sp-09",
+    "name": "Kühlregal Puffer",
+    "category": "jacken",
+    "gender": "unisex",
+    "price": 279,
+    "oldPrice": 329,
+    "isNew": false,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Silber",
+        "hex": "#c3c6c8"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Kurze Pufferjacke mit hohem Kragen und mattem Finish.",
+    "material": "Außen 100 % Nylon, Füllung recyceltes Polyester",
+    "fit": "Oversized, kurz",
+    "colorImages": {
+      "Silber": [
+        "/products/sp-09-silber-1.svg",
+        "/products/sp-09-silber-2.svg",
+        "/products/sp-09-silber-3.svg",
+        "/products/sp-09-silber-4.svg",
+        "/products/sp-09-silber-5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-09-schwarz-1.svg",
+        "/products/sp-09-schwarz-2.svg",
+        "/products/sp-09-schwarz-3.svg",
+        "/products/sp-09-schwarz-4.svg",
+        "/products/sp-09-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-09-silber-1.svg",
+      "/products/sp-09-silber-2.svg",
+      "/products/sp-09-silber-3.svg",
+      "/products/sp-09-silber-4.svg",
+      "/products/sp-09-silber-5.svg"
+    ]
+  },
+  {
+    "id": "sp-10",
+    "name": "Spätschicht Strick",
+    "category": "strick",
+    "gender": "unisex",
+    "price": 149,
+    "isNew": true,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Ecru",
+        "hex": "#e9e3d6"
+      },
+      {
+        "name": "Anthrazit",
+        "hex": "#3a3c3f"
+      }
+    ],
+    "description": "Grobstrickpullover mit drei Zopfmustern und breitem Rippkragen.",
+    "material": "60 % Baumwolle, 40 % Merinowolle",
+    "fit": "Relaxed",
+    "colorImages": {
+      "Ecru": [
+        "/products/sp-10-ecru-1.svg",
+        "/products/sp-10-ecru-2.svg",
+        "/products/sp-10-ecru-3.svg",
+        "/products/sp-10-ecru-4.svg",
+        "/products/sp-10-ecru-5.svg"
+      ],
+      "Anthrazit": [
+        "/products/sp-10-anthrazit-1.svg",
+        "/products/sp-10-anthrazit-2.svg",
+        "/products/sp-10-anthrazit-3.svg",
+        "/products/sp-10-anthrazit-4.svg",
+        "/products/sp-10-anthrazit-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-10-ecru-1.svg",
+      "/products/sp-10-ecru-2.svg",
+      "/products/sp-10-ecru-3.svg",
+      "/products/sp-10-ecru-4.svg",
+      "/products/sp-10-ecru-5.svg"
+    ]
+  },
+  {
+    "id": "sp-11",
+    "name": "Kiezrunde Cardigan",
+    "category": "strick",
+    "gender": "damen",
+    "price": 139,
+    "isNew": false,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Grau",
+        "hex": "#9a9a98"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Cardigan mit tiefem V-Ausschnitt, fünf Knöpfen und aufgesetzten Taschen.",
+    "material": "70 % Baumwolle, 30 % Alpaka",
+    "fit": "Oversized",
+    "colorImages": {
+      "Grau": [
+        "/products/sp-11-grau-1.svg",
+        "/products/sp-11-grau-2.svg",
+        "/products/sp-11-grau-3.svg",
+        "/products/sp-11-grau-4.svg",
+        "/products/sp-11-grau-5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-11-schwarz-1.svg",
+        "/products/sp-11-schwarz-2.svg",
+        "/products/sp-11-schwarz-3.svg",
+        "/products/sp-11-schwarz-4.svg",
+        "/products/sp-11-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-11-grau-1.svg",
+      "/products/sp-11-grau-2.svg",
+      "/products/sp-11-grau-3.svg",
+      "/products/sp-11-grau-4.svg",
+      "/products/sp-11-grau-5.svg"
+    ]
+  },
+  {
+    "id": "sp-12",
+    "name": "Pflaster Cargo Pants",
+    "category": "hosen",
+    "gender": "herren",
+    "price": 139,
+    "isNew": false,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Schwarz",
+        "hex": "#2a2a2a"
+      },
+      {
+        "name": "Oliv",
+        "hex": "#59593f"
+      }
+    ],
+    "description": "Cargohose mit Pattentaschen und elastischem Beinabschluss.",
+    "material": "100 % Baumwoll-Ripstop",
+    "fit": "Relaxed, schmal zulaufend",
+    "colorImages": {
+      "Schwarz": [
+        "/products/sp-12-schwarz-1.svg",
+        "/products/sp-12-schwarz-2.svg",
+        "/products/sp-12-schwarz-3.svg",
+        "/products/sp-12-schwarz-4.svg",
+        "/products/sp-12-schwarz-5.svg"
+      ],
+      "Oliv": [
+        "/products/sp-12-oliv-1.svg",
+        "/products/sp-12-oliv-2.svg",
+        "/products/sp-12-oliv-3.svg",
+        "/products/sp-12-oliv-4.svg",
+        "/products/sp-12-oliv-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-12-schwarz-1.svg",
+      "/products/sp-12-schwarz-2.svg",
+      "/products/sp-12-schwarz-3.svg",
+      "/products/sp-12-schwarz-4.svg",
+      "/products/sp-12-schwarz-5.svg"
+    ]
+  },
+  {
+    "id": "sp-13",
+    "name": "Ringbahn Wide Pants",
+    "category": "hosen",
+    "gender": "damen",
+    "price": 119,
+    "isNew": true,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Schwarz",
+        "hex": "#2a2a2a"
+      },
+      {
+        "name": "Grau",
+        "hex": "#9a9a98"
+      }
+    ],
+    "description": "Weite Bundfaltenhose mit Bügelfalte und hohem Bund.",
+    "material": "64 % Polyester, 34 % Viskose, 2 % Elasthan",
+    "fit": "Weit, hoher Bund",
+    "colorImages": {
+      "Schwarz": [
+        "/products/sp-13-schwarz-1.svg",
+        "/products/sp-13-schwarz-2.svg",
+        "/products/sp-13-schwarz-3.svg",
+        "/products/sp-13-schwarz-4.svg",
+        "/products/sp-13-schwarz-5.svg"
+      ],
+      "Grau": [
+        "/products/sp-13-grau-1.svg",
+        "/products/sp-13-grau-2.svg",
+        "/products/sp-13-grau-3.svg",
+        "/products/sp-13-grau-4.svg",
+        "/products/sp-13-grau-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-13-schwarz-1.svg",
+      "/products/sp-13-schwarz-2.svg",
+      "/products/sp-13-schwarz-3.svg",
+      "/products/sp-13-schwarz-4.svg",
+      "/products/sp-13-schwarz-5.svg"
+    ]
+  },
+  {
+    "id": "sp-14",
+    "name": "Baggy Denim",
+    "category": "denim",
+    "gender": "unisex",
+    "price": 149,
+    "oldPrice": 179,
+    "isNew": false,
+    "bestseller": true,
+    "colors": [
+      {
+        "name": "Washed Blue",
+        "hex": "#6d87a8"
+      },
+      {
+        "name": "Washed Black",
+        "hex": "#3b3d42"
+      }
+    ],
+    "description": "Baggy Jeans mit tiefem Schritt, Kontrastnähten und rotem Patch hinten.",
+    "material": "100 % Baumwolle, 14 oz Denim",
+    "fit": "Baggy, tiefe Leibhöhe",
+    "colorImages": {
+      "Washed Blue": [
+        "/products/sp-14-washed-blue-1.svg",
+        "/products/sp-14-washed-blue-2.svg",
+        "/products/sp-14-washed-blue-3.svg",
+        "/products/sp-14-washed-blue-4.svg",
+        "/products/sp-14-washed-blue-5.svg"
+      ],
+      "Washed Black": [
+        "/products/sp-14-washed-black-1.svg",
+        "/products/sp-14-washed-black-2.svg",
+        "/products/sp-14-washed-black-3.svg",
+        "/products/sp-14-washed-black-4.svg",
+        "/products/sp-14-washed-black-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-14-washed-blue-1.svg",
+      "/products/sp-14-washed-blue-2.svg",
+      "/products/sp-14-washed-blue-3.svg",
+      "/products/sp-14-washed-blue-4.svg",
+      "/products/sp-14-washed-blue-5.svg"
+    ]
+  },
+  {
+    "id": "sp-15",
+    "name": "Ladentür Cap",
+    "category": "accessoires",
+    "gender": "unisex",
+    "price": 45,
+    "isNew": false,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      },
+      {
+        "name": "Ecru",
+        "hex": "#e9e3d6"
+      }
+    ],
+    "description": "Sechs-Panel-Cap mit gesticktem Logo und Metallschnalle.",
+    "material": "100 % Baumwoll-Twill",
+    "fit": "One Size, verstellbar",
+    "colorImages": {
+      "Schwarz": [
+        "/products/sp-15-schwarz-1.svg",
+        "/products/sp-15-schwarz-2.svg",
+        "/products/sp-15-schwarz-3.svg",
+        "/products/sp-15-schwarz-4.svg",
+        "/products/sp-15-schwarz-5.svg"
+      ],
+      "Ecru": [
+        "/products/sp-15-ecru-1.svg",
+        "/products/sp-15-ecru-2.svg",
+        "/products/sp-15-ecru-3.svg",
+        "/products/sp-15-ecru-4.svg",
+        "/products/sp-15-ecru-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-15-schwarz-1.svg",
+      "/products/sp-15-schwarz-2.svg",
+      "/products/sp-15-schwarz-3.svg",
+      "/products/sp-15-schwarz-4.svg",
+      "/products/sp-15-schwarz-5.svg"
+    ]
+  },
+  {
+    "id": "sp-16",
+    "name": "Pfandbon Tote",
+    "category": "accessoires",
+    "gender": "unisex",
+    "price": 35,
+    "isNew": true,
+    "bestseller": false,
+    "colors": [
+      {
+        "name": "Ecru",
+        "hex": "#e9e3d6"
+      },
+      {
+        "name": "Schwarz",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "description": "Schwerer Canvas-Beutel mit langen Henkeln und großem Frontprint.",
+    "material": "100 % Baumwoll-Canvas, 400 g/m²",
+    "fit": "One Size, 40 × 42 cm",
+    "colorImages": {
+      "Ecru": [
+        "/products/sp-16-ecru-1.svg",
+        "/products/sp-16-ecru-2.svg",
+        "/products/sp-16-ecru-3.svg",
+        "/products/sp-16-ecru-4.svg",
+        "/products/sp-16-ecru-5.svg"
+      ],
+      "Schwarz": [
+        "/products/sp-16-schwarz-1.svg",
+        "/products/sp-16-schwarz-2.svg",
+        "/products/sp-16-schwarz-3.svg",
+        "/products/sp-16-schwarz-4.svg",
+        "/products/sp-16-schwarz-5.svg"
+      ]
+    },
+    "images": [
+      "/products/sp-16-ecru-1.svg",
+      "/products/sp-16-ecru-2.svg",
+      "/products/sp-16-ecru-3.svg",
+      "/products/sp-16-ecru-4.svg",
+      "/products/sp-16-ecru-5.svg"
+    ]
+  }
+]
